@@ -13,8 +13,11 @@
 		<Item Name="src" Type="Folder">
 			<Item Name="SubVI&apos;s" Type="Folder">
 				<Item Name="Login.vi" Type="VI" URL="../SubVI&apos;s/Login.vi"/>
+				<Item Name="Req_Driver.vi" Type="VI" URL="../SubVI&apos;s/Req_Driver.vi"/>
 			</Item>
-			<Item Name="Typedef&apos;s" Type="Folder"/>
+			<Item Name="Typedef&apos;s" Type="Folder">
+				<Item Name="Request_Operations.ctl" Type="VI" URL="../Typedef&apos;s/Request_Operations.ctl"/>
+			</Item>
 			<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
